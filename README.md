@@ -1,1 +1,1 @@
-# wp-classic-editor
+# classic-editor
